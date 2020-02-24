@@ -1,0 +1,2 @@
+# datascience
+Datascience Ödevler
